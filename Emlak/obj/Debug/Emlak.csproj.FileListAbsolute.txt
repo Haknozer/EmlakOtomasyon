@@ -1,0 +1,2 @@
+C:\Users\hakan\source\repos\Emlak\Emlak\obj\Debug\Emlak.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache

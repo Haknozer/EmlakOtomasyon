@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\Emlak\EmlakForm\obj\Release\net8.0-windows\EmlakForm.Form1.resources
+C:\Users\hakan\source\repos\Emlak\EmlakForm\obj\Release\net8.0-windows\EmlakForm.Form2.resources
+C:\Users\hakan\source\repos\Emlak\EmlakForm\obj\Release\net8.0-windows\EmlakForm.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\Emlak\EmlakForm\obj\Release\net8.0-windows\EmlakForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\Emlak\EmlakForm\obj\Release\net8.0-windows\EmlakForm.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Emlak\EmlakForm\obj\Release\net8.0-windows\EmlakForm.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Emlak\EmlakForm\obj\Release\net8.0-windows\EmlakForm.csproj.CoreCompileInputs.cache

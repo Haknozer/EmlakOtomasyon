@@ -1,0 +1,2 @@
+5,3,Istanbul,Kadıköy,100,2010,Daire,False,5,10000,1000,
+6,2,Ankara,Mamak,100,2015,Dubleks,True,7,100000,1200,

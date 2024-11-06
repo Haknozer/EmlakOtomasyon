@@ -1,0 +1,1 @@
+6,2,Istanbul,Maltepe,125,2020,Bahceli,True,6,20000000

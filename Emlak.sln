@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmlakEv", "EmlakEv\EmlakEv.csproj", "{8C8A77B2-048B-48C0-9AB3-2CCBD401FC73}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4B75F40C-F87E-4F16-AB4B-B9E42C6F4376} = {4B75F40C-F87E-4F16-AB4B-B9E42C6F4376}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmlakForm", "EmlakForm\EmlakForm.csproj", "{4B75F40C-F87E-4F16-AB4B-B9E42C6F4376}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{5DF94877-4989-4420-93FE-791429869C62}"
+	ProjectSection(SolutionItems) = preProject
+		users.txt = users.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8A77B2-048B-48C0-9AB3-2CCBD401FC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8A77B2-048B-48C0-9AB3-2CCBD401FC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8A77B2-048B-48C0-9AB3-2CCBD401FC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8A77B2-048B-48C0-9AB3-2CCBD401FC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B75F40C-F87E-4F16-AB4B-B9E42C6F4376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B75F40C-F87E-4F16-AB4B-B9E42C6F4376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B75F40C-F87E-4F16-AB4B-B9E42C6F4376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B75F40C-F87E-4F16-AB4B-B9E42C6F4376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD505A7-CE46-4AF1-A9B3-BF2AF19172A7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\hakan\source\repos\Emlak\EmlakEv\bin\Debug\net8.0\EmlakEv.deps.json
+C:\Users\hakan\source\repos\Emlak\EmlakEv\bin\Debug\net8.0\EmlakEv.dll
+C:\Users\hakan\source\repos\Emlak\EmlakEv\bin\Debug\net8.0\EmlakEv.pdb
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\EmlakEv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\EmlakEv.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\EmlakEv.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\EmlakEv.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\EmlakEv.dll
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\refint\EmlakEv.dll
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\EmlakEv.pdb
+C:\Users\hakan\source\repos\Emlak\EmlakEv\obj\Debug\net8.0\ref\EmlakEv.dll
